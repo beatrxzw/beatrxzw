@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languages that I'm leaning</h2>
+<h2 align="left">Languages that I'm learning</h2>
 
 ###
 
