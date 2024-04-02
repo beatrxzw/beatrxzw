@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bea, welcome to my code world!</p>
+<p align="left">Welcome to my coding world, I'm Bea!</p>
 
 ###
 
