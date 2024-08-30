@@ -1,8 +1,8 @@
-<h1 align="left">Hi!</h1>
+<h1 align="left">Welcome!</h1>
 
 ###
 
-<p align="left">Welcome, I'm Bea!</p>
+<p align="left">I'm Bea!</p>
 
 ###
 
