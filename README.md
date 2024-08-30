@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I started to code recently! <br>📚 I'm currently learning front-end languages<br>🎲 Fun fact: I'm already a graphic designer :)</p>
+<p align="left">✨ I started to code recently! <br>📚 I'm currently learning front-end languages<br>🎲 Fun fact: I'm already a graphic designer XD</p>
 
 ###
 
