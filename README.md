@@ -64,7 +64,8 @@
 - **Análise e Desenvolvimento de Sistemas:** Iniciei essa graduação com objetivo de construir uma base sólida em desenvolvimento de software
 
 
-- **Typescript:** Estou explorando essa linguagem para um projeto futuro.
+- **PHP:** Estou explorando essa linguagem para um projeto futuro.
+- 
 
 ###
 
