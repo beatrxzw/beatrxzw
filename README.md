@@ -65,7 +65,6 @@
 
 
 - **PHP:** Estou explorando essa linguagem para um projeto futuro.
-- 
 
 ###
 
