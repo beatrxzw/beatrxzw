@@ -63,7 +63,7 @@
 
 - **Análise e Desenvolvimento de Sistemas:** Iniciei essa graduação com objetivo de construir uma base sólida em desenvolvimento de software
   
-- - **C#:** Estou estudando essa linguagem para por em prática no estágio.
+- **C#:** Estou estudando essa linguagem para por em prática no estágio.
 
 - **PHP:** Estou explorando essa linguagem para um projeto futuro.
 
